@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kUoBus918iMXaKXooazIvUw3fiLazhzO9Rpx0/j6rKvjXHUzlQxl2yllku7Y+mqDeZGDjxW/3C7qbj+5DgPFCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Titan\\source\\repos\\EquipmentApp\\EquipmentApp\\EquipmentApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Titan\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
+    "C:\\Users\\Titan\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\Titan\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
